@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Gajendra Kumar Sharma | Fintech Operations</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #f5f7fa;
+    color: #333;
+}
+header {
+    background: #0a66c2;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+section {
+    padding: 30px;
+    max-width: 900px;
+    margin: auto;
+}
+h2 {
+    color: #0a66c2;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 5px;
+}
+.card {
+    background: white;
+    padding: 20px;
+    margin: 15px 0;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+ul {
+    padding-left: 20px;
+}
+.footer {
+    text-align: center;
+    padding: 20px;
+    background: #eee;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Gajendra Kumar Sharma</h1>
+    <p>Assistant Manager | Fintech Operations | Affordability & EMI Expert</p>
+</header>
+
+<section>
+    <h2>👤 About Me</h2>
+    <div class="card">
+        <p>
+        Fintech operations professional with 11+ years of experience in EMI, BNPL, POS, and payment gateway ecosystems.
+        Specialized in affordability offer configuration, bank reconciliation, and merchant onboarding across large OEMs.
+        </p>
+    </div>
+
+    <h2>💼 Professional Experience</h2>
+
+    <div class="card">
+        <h3>PayU Payments Pvt. Ltd. (2022 - Present)</h3>
+        <ul>
+            <li>Managing affordability offer configuration for OEMs like LG, HP, IFB</li>
+            <li>Handling end-to-end reconciliation and settlement with banks</li>
+            <li>Improved operational efficiency by 30%</li>
+            <li>Collaborated with product & tech teams for EMI solutions</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Paytm (2021 - 2022)</h3>
+        <ul>
+            <li>Managed merchant onboarding & customer support</li>
+            <li>Handled POS configuration and deployment</li>
+            <li>Improved merchant retention through proactive support</li>
+        </ul>
+    </div>
+
+    <div class="card">
+        <h3>Pine Labs (2014 - 2021)</h3>
+        <ul>
+            <li>Led 20-member team across 15+ states</li>
+            <li>Managed EMI, UPI, POS and OEM configurations</li>
+            <li>Handled government projects (e-Mitra, APOnline)</li>
+        </ul>
+    </div>
+
+    <h2>⚙️ Core Skills</h2>
+    <div class="card">
+        <ul>
+            <li>Affordability & EMI Configuration</li>
+            <li>Bank Reconciliation & Settlement</li>
+            <li>Merchant Onboarding</li>
+            <li>POS & Payment Gateway Operations</li>
+            <li>BNPL Ecosystem</li>
+            <li>SQL & MIS Reporting</li>
+        </ul>
+    </div>
+
+    <h2>📊 Key Achievements</h2>
+    <div class="card">
+        <ul>
+            <li>Improved productivity by 30%</li>
+            <li>Managed large OEM accounts like Amazon & LG</li>
+            <li>Led cross-functional fintech operations projects</li>
+        </ul>
+    </div>
+
+    <h2>📌 Case Study (Sample)</h2>
+    <div class="card">
+        <h3>Affordability Offer Optimization</h3>
+        <p><b>Problem:</b> Delays in EMI offer approvals impacting merchant experience</p>
+        <p><b>Solution:</b> Streamlined coordination with banks and automated workflows</p>
+        <p><b>Impact:</b> Reduced turnaround time and improved merchant satisfaction</p>
+    </div>
+
+    <h2>📞 Contact</h2>
+    <div class="card">
+        <p>Email: bhardwajg91@gmail.com</p>
+        <p>Phone: +91 9015043172</p>
+    </div>
+</section>
+
+<div class="footer">
+    <p>© 2026 Gajendra Kumar Sharma | Fintech Portfolio</p>
+</div>
+
+</body>
+</html>
